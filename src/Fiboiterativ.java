@@ -26,3 +26,10 @@ public class Fiboiterativ {
         }
 
     }
+ /*Iterativ un dKursiv unterscheiden sich in einigem. Iterativ läuft mit schleife wobei die arbeitsschritte
+    in einer liste für spätere verwendung gespeichert werden.
+    Das rekursive programm ist um einiges kürzer und schlichter gehalten als das iterative.
+    Es gibt auch einen unterschied in der Geschwindigkeit.
+    Natürlich hängt die laufzeit auch von n ab, also wie oft man es durchlaufen will bzw welchen ausgabewert man erreichen möchte,
+    aber bei der iteration wird es in der schleife immer wieder von vorne wiederholt.
+ * */
