@@ -6,7 +6,7 @@ public class Vehicle {
     static double weight;
     static String name;
 
-    public static void printName(String[]args){
+    public static void printName(String[]bmw){
         System.out.print(name); //Ich hab keine Ahnung was du da formuliert hast, ich versteh das sprachlich nicht.
     }
 
