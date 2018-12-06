@@ -17,7 +17,7 @@ public class Aufgabe2
     {
         if (t.length() <= 2)
         {
-            System.err.println("Sorry, gib bitte 3 oder mehr Zeichen ein.");
+            System.err.print("Sorry, gib bitte 3 oder mehr Zeichen ein.");
         }
         return t;
     }
